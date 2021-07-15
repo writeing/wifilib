@@ -7,7 +7,7 @@
 #define PASSWD          "853976858"
 
 
-#define REMOTE_IP       "123.56.87.60"
+#define REMOTE_IP       "192.168.0.1"
 #define REMOTE_PORT     1883
 #define CONNECT_TIME_OUT    20
 
